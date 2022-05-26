@@ -7,3 +7,5 @@ This bot can listen to the following commands:
 * !guess - guess a number between 1 and 10
 * !rps - rock, paper, scissors game
 * !wiki [something] - search for [something] on wikipedia
+
+The discord bot token should be placed in tokens.py
